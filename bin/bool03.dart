@@ -5,6 +5,8 @@
         b: int
     Returns:
         bool
-    */
+    */bool func(b){
+      return = b > o; 
+    }
 
-void main() {}
+void main() {print (func(7));}
