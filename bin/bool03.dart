@@ -9,4 +9,4 @@
       return = b > o; 
     }
 
-void main() {print (func(7));}
+void main() {print (func(8));}
