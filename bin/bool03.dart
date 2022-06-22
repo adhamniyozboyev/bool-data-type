@@ -6,7 +6,7 @@
     Returns:
         bool
     */bool func(b){
-      return = b > o; 
+      return  b > 0; 
     }
 
 void main() {print (func(8));}
