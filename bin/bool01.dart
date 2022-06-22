@@ -16,5 +16,5 @@
   }
 
 void main() {
-  print (func(6, 7));
+  print (func(5, 7));
 }
