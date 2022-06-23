@@ -7,7 +7,7 @@
         bool
     */
 bool func(a){
-  return a%2==1;
+  return a % 2 == 1;
   
 }
 void main() {(print (func(26)));}
