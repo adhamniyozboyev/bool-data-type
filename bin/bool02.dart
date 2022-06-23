@@ -9,4 +9,4 @@
 bool func(int a){
 return a==8;  
 }
-void main() {print (func(6));}
+void main() {print (func(4));}
