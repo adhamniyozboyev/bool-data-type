@@ -7,5 +7,9 @@
     Returns:
         bool
     */
-
-void main() {}
+bool func(a,b){
+  int a=5;
+  int b=6;
+  return a != b;
+}
+void main() {print(func(5,6));}
