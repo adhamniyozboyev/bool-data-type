@@ -6,5 +6,7 @@
     Returns:
         bool
     */
-
-void main() {}
+bool func(a){
+  return 242 >1;
+}
+void main() {print(func(242));}
