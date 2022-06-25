@@ -7,6 +7,6 @@
         bool
 */
 bool func(int a){
-return a==8;  
+return a==7;  
 }
 void main() {print (func(5));}
